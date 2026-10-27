@@ -1,0 +1,14 @@
+# Local reports and exported documents
+/docs/
+/README.pdf
+
+# Keil build and debug output
+/Objects/
+/Listings/
+/DebugConfig/
+*.uvguix.*
+*.uvoptx
+*.bak
+*.tmp
+*.log
+JLinkLog.txt
